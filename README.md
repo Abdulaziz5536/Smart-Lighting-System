@@ -33,7 +33,7 @@ The backend exposes API endpoints to control the LED remotely (simulated):
 
 - **GET `/status`** → Returns LED status
 
-
+```json
 {
   "led": true
 }
