@@ -23,7 +23,7 @@
 ![Circuit Diagram](images/tinkercad_circuit.png)
 
 ### Simulation Step
-![Simulation Step](images/simulation_step.png)
+![Simulation Step](https://csg.us-east-1.prd.tinkercad.com/things/2duYP2HP7n5/t725.png?rev=1773130304240000000&s=&v=1&type=circuits)
 
 ---
 
